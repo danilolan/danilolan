@@ -1,24 +1,24 @@
 ----------------------------------------------------------------------------
 
-# Welcome!
+# Bem vindo!
 
  
 
-## I'm (SEU NOME)!
+## Eu sou Danilo Herculano!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Eu sou um desenvolvedor Full-stack(React e Node)!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Sou do Brasil.
 
-:books: I’m currently learning everything.
+:books: Sigo constantemente apredendo!
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: Encontrar um emprego, expandir meu portfólio e me aprofundar mais em ciência de dados.
 
  
 
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
@@ -26,9 +26,9 @@
 
 
 
-- Thanks for visiting.
+- Obrigado por visitar!
 
-- Enjoy it!! o/
+- Aproveite!! o/
 
 ----------------------------------------------------------------------------------
 
