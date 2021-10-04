@@ -8,11 +8,11 @@
 
  
 
-:computer: Eu sou um desenvolvedor Full-stack(React e Node)!
+:computer: Eu sou um desenvolvedor Full-stack (React e Node)!
 
 :house_with_garden: Sou do Brasil.
 
-:books: Sigo constantemente apredendo!
+:books: Sigo constantemente aprendendo!
 
 :outbox_tray: 2021 Goals: Encontrar um emprego, expandir meu portfólio e me aprofundar mais em ciência de dados.
 
