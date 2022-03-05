@@ -14,9 +14,7 @@
 
 :books: Sigo constantemente aprendendo!
 
-:outbox_tray: 2021 Goals: Encontrar um emprego, expandir meu portfólio e me aprofundar mais em ciência de dados.
 
- 
 
 ## Sobre mim
 ### Linguagens
